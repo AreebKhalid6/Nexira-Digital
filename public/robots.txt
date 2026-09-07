@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /CaseStudy
+Disallow: /BlogAdmin
+
+Sitemap: https://nexiradigital.com/sitemap.xml

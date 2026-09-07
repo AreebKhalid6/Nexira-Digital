@@ -1,0 +1,124 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@400;500;600;700;800&display=swap
+File Name: M:\Download Project\nexira-design-studio.base44.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: M:\Download Project\nexira-design-studio.base44.app\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://nexira-design-studio.base44.app/
+File Name: M:\Download Project\nexira-design-studio.base44.app\index.htm
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/About
+File Name: M:\Download Project\nexira-design-studio.base44.app\About.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/api/apps/manifests/698cf163268f3a3ab1d59833/manifest.json
+File Name: M:\Download Project\nexira-design-studio.base44.app\api\apps\manifests\698cf163268f3a3ab1d59833\manifest.json
+Content Type: application/json
+
+Uri: https://nexira-design-studio.base44.app/assets/index-B6PWdsOZ.js
+File Name: M:\Download Project\nexira-design-studio.base44.app\assets\index-B6PWdsOZ.js
+Content Type: application/javascript
+
+Uri: https://nexira-design-studio.base44.app/assets/index-D0f15Hjl.css
+File Name: M:\Download Project\nexira-design-studio.base44.app\assets\index-D0f15Hjl.css
+Content Type: text/css
+
+Uri: https://nexira-design-studio.base44.app/Blog
+File Name: M:\Download Project\nexira-design-studio.base44.app\Blog.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/BlogAdmin
+File Name: M:\Download Project\nexira-design-studio.base44.app\BlogAdmin.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/BlogPost
+File Name: M:\Download Project\nexira-design-studio.base44.app\BlogPost.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/CaseStudy
+File Name: M:\Download Project\nexira-design-studio.base44.app\CaseStudy.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/Contact
+File Name: M:\Download Project\nexira-design-studio.base44.app\Contact.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/CookiePolicy
+File Name: M:\Download Project\nexira-design-studio.base44.app\CookiePolicy.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/favicon.svg
+File Name: M:\Download Project\nexira-design-studio.base44.app\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://nexira-design-studio.base44.app/GetStarted
+File Name: M:\Download Project\nexira-design-studio.base44.app\GetStarted.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/Portfolio
+File Name: M:\Download Project\nexira-design-studio.base44.app\Portfolio.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/Privacy
+File Name: M:\Download Project\nexira-design-studio.base44.app\Privacy.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/Process
+File Name: M:\Download Project\nexira-design-studio.base44.app\Process.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/Services
+File Name: M:\Download Project\nexira-design-studio.base44.app\Services.html
+Content Type: text/html
+
+Uri: https://nexira-design-studio.base44.app/static/js/badge.js
+File Name: M:\Download Project\nexira-design-studio.base44.app\static\js\badge.js
+Content Type: application/javascript
+
+Uri: https://nexira-design-studio.base44.app/Terms
+File Name: M:\Download Project\nexira-design-studio.base44.app\Terms.html
+Content Type: text/html
+
